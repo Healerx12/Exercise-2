@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.button{
+	width: 50px;
+	height: 50px;
+	font-size: 25px;
+	margin: 2px;
+	cursor: pointer;
+}
+.textview{
+	width: 217px;
+	margin: 5px;
+	font-size: 28px;
+
+}
+
+.nol{
+	width: 100px;
+}
+.sma-dng{
+	height: 120px;
+}
+.main{
+	position: absolute;
+	top: 50%;
+	left: 40%;
+	transform: translateX(-50%);
+	transform: translateY(-50%);
+}
